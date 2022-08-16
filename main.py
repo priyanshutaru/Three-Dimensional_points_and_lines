@@ -14,4 +14,4 @@ y = np.cos(z) + 0.1 * np.random.randn(100)
 ax.scatter3D(x, y, z, c=z, cmap='Greens')
 plt.show()
 
-this code is given the error so please don't copy it.
+this code is given the error so please don't copy it.  
